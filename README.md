@@ -12,6 +12,6 @@
 - Delete last character (←)
 - Result (=)
 
-## Screenshot
+## Overview
 
-![Captura de tela 1](screenshot/calc.png)
+![Atl Text](/screenshot/calculator.gif)
